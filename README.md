@@ -1,6 +1,6 @@
 <p align="left">
-  <a href="https://skinnyrd.com/" target="_blank">
-    <img src="imgs/3D_Printer_Title.svg" alt="Skinny R&D Logo" height="100">
+  <a href="https://skinnyrd.com/training/3d-printing-for-technical-operations/" target="_blank">
+    <img src="imgs/3D_Printer_Title.svg" alt="Skinny R&D Logo">
   </a>
 </p>
 
