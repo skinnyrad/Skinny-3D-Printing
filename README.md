@@ -1,20 +1,8 @@
-<!-- Fancy Header :) -->
-<div style="display: flex; align-items: center; margin: 0;">
-  <a href="https://skinnyrd.com/training/3d-printing-for-technical-operations/" target="_blank">
-    <img src="imgs/3D_Printer_White.svg"
-         alt="3D Printing Logo"
-         height="100"
-         style="margin-right: 20px;">
+<p align="left">
+  <a href="https://skinnyrd.com/" target="_blank">
+    <img src="imgs/3D_Printer_Title.svg" alt="Skinny R&D Logo" height="100">
   </a>
-
-  <span style="font-size: 2em; font-weight: bold; line-height: 1;">
-    Skinny R&D 3D Prints<br>
-    <span style="font-size: 0.7em; font-weight: normal;">
-      A collection of community designs and challenges!
-    </span>
-  </span>
-</div>
-<!-- End of Header -->
+</p>
 
 ## Challenges
 
