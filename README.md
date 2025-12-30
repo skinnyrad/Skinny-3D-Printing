@@ -23,11 +23,13 @@ Made an awesome or useful design and want to share the love? We want you to do j
 Of course you do! We'll get you set up with both! Reach out to us at <contact@skinnyrd.com> for a quote or visit our [website](https://skinnyrd.com/training/3d-printing-for-technical-operations/) for more information.
 
 <!-- Company Logo -->
-<a href="https://skinnyrd.com/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="imgs/Abbreviated_Logo_White.svg">
-    <source media="(prefers-color-scheme: light)" srcset="imgs/Abbreviated_Logo_Black.svg">
-    <img alt="Title Photo" src="imgs/Abbreviated_Logo_White.svg">
-  </picture>
-</a>
+<div align="center">
+  <a href="https://skinnyrd.com/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="imgs/Abbreviated_Logo_White.svg">
+      <source media="(prefers-color-scheme: light)" srcset="imgs/Abbreviated_Logo_Black.svg">
+      <img alt="Brand Logo"  height="50" src="imgs/Abbreviated_Logo_White.svg">
+    </picture>
+  </a>
+</div>
 <!-- End of Logo -->
