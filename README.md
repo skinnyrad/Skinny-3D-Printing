@@ -1,8 +1,10 @@
-<p align="left">
-  <a href="https://skinnyrd.com/training/3d-printing-for-technical-operations/" target="_blank">
-    <img src="imgs/3D_Printer_Title.png" alt="Skinny R&D Logo">
-  </a>
-</p>
+<a href="https://skinnyrd.com/training/3d-printing-for-technical-operations/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="imgs/3D_Printer_Title_White.png">
+    <source media="(prefers-color-scheme: light)" srcset="imgs/3D_Printer_Title_Black.png">
+    <img alt="Title Photo" src="imgs/3D_Printer_Title_White.png">
+  </picture>
+</a>
 
 ## Challenges
 
@@ -21,9 +23,11 @@ Made an awesome or useful design and want to share the love? We want you to do j
 Of course you do! We'll get you set up with both! Reach out to us at <contact@skinnyrd.com> for a quote or visit our [website](https://skinnyrd.com/training/3d-printing-for-technical-operations/) for more information.
 
 <!-- Company Logo -->
-<p align="center">
-  <a href="https://skinnyrd.com/" target="_blank">
-    <img src="imgs/Abbreviated_Logo_White.svg" alt="Skinny R&D Logo" height="50">
-  </a>
-</p>
+<a href="https://skinnyrd.com/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="imgs/Abbreviated_Logo_White.svg">
+    <source media="(prefers-color-scheme: light)" srcset="imgs/Abbreviated_Logo_Black.svg">
+    <img alt="Title Photo" src="imgs/Abbreviated_Logo_White.svg">
+  </picture>
+</a>
 <!-- End of Logo -->
