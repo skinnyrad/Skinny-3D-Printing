@@ -10,9 +10,9 @@
 
 If you want to hone or refresh your CAD skills, this is a great place to be. We'll try to post a challenge once a month for you to tackle. There will also be a solution included if you want to take a look when you're done.
 
-## Designs
+## Models
 
-The designs folder is a collection of mesh files and descriptions made by the community. Each project is organised by the device it was made for. Every design has the mesh, a brief README, and at least one picture of the design.
+The models folder is a collection of mesh files and descriptions made by the community. Each project is organized into a folder which has the mesh, a brief README, and at least one picture of the design.
 
 ### Contributing
 
